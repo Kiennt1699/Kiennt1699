@@ -1,85 +1,51 @@
-<!-- Tiêu đề -->
-<h1 align="center">🎉 Xin Chào! Tôi là <Your Name> 👋</h1>
+<h1 align="center">🚀 Xin Chào! Tôi là <a href="https://yourwebsite.com" target="_blank">Nguyễn Trung Kiên</a> 👋</h1>
 
-<!-- Mô tả ngắn -->
 <p align="center">
-  <b>💻 Developer | 🎨 Designer | 🌍 Open Source Contributor</b>
-</p>
-
-<!-- Nút tương tác -->
-<p align="center">
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-blue?style=for-the-badge" alt="Portfolio">
-  </a>
-  <a href="https://linkedin.com/in/yourname" target="_blank">
-    <img src="https://img.shields.io/badge/🔗 LinkedIn-Connect-lightblue?style=for-the-badge" alt="LinkedIn">
-  </a>
-  <a href="mailto:yourname@email.com" target="_blank">
-    <img src="https://img.shields.io/badge/📧 Email-Me-red?style=for-the-badge" alt="Email">
-  </a>
+  <a href="https://linkedin.com/in/pengnk"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="kien.nguyentrung1699@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/Kiennt1699"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 ---
 
-## 🛠️ **Kỹ Năng Chính**
-<table>
-  <tr>
-    <td align="center"><b>Frontend</b></td>
-    <td align="center"><b>Backend</b></td>
-    <td align="center"><b>UI/UX Design</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
-      <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
-      <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJS"/>
-      <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
-      <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/adobe-xd.png" alt="Adobe XD"/>
-      <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma"/>
-      <img src="https://img.icons8.com/color/48/000000/photoshop.png" alt="Photoshop"/>
-    </td>
-  </tr>
-</table>
+### 💻 **Về Tôi**
+
+- 🔭 **Hiện tại**: Sinh viên năm cuối tại **Đại học FPT**.
+- 🌱 **Học hỏi**: Tập trung vào **React, TypeScript, và UI/UX Design**.
+- ⚡ **Sở thích**: Lập trình, chơi game và du lịch.
 
 ---
 
-## 📌 **Dự Án Nổi Bật**
-### 🕹️ [**Project A**](https://github.com/yourname/project-a)
-- **Mô tả:** Một ứng dụng quản lý công việc với chức năng kéo thả (Drag & Drop).
-- **Tech Stack:** React, Redux, Firebase.
-- **Kết quả:** 🚀 Hơn 1.000 lượt sử dụng hàng ngày.
+### 🛠️ **Kỹ Năng Chính**
 
-### 🌐 [**Project B**](https://github.com/yourname/project-b)
-- **Mô tả:** Website thương mại điện tử tích hợp AI tìm kiếm sản phẩm.
-- **Tech Stack:** Vue.js, Node.js, MongoDB.
-- **Kết quả:** ⭐ Tăng doanh thu 20% trong 3 tháng triển khai.
+| 🚀 **Frontend** | 🛠️ **Backend** | 📦 **DevOps** |
+| -------------- | --------------- | ------------- |
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
 
 ---
 
-## 🌈 **Thống Kê GitHub**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Most Used Languages">
-</div>
+### 🚀 **Dự Án Nổi Bật**
+
+| **Tên Dự Án** | **Mô Tả** | **Liên Kết** |
+| -------------- | ---------- | ------------ |
+| 🏡 **NICEHOUSE** | Ứng dụng quản lý và tìm kiếm căn hộ chuyên nghiệp. | [🔗 Xem Dự Án](https://yourwebsite.com/projects/nicehouse) |
+| 🛒 **E-Commerce Platform** | Nền tảng thương mại điện tử đầy đủ chức năng. | [🔗 Xem Dự Án](https://github.com/yourusername/ecommerce-platform) |
 
 ---
 
-## 🌍 **Liên Hệ**
+### 📊 **Thống Kê GitHub**
+
 <p align="center">
-  <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/github/followers/yourusername?label=GitHub&style=social" alt="GitHub">
-  </a>
-  <a href="https://linkedin.com/in/yourname" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=social" alt="LinkedIn">
-  </a>
-  <a href="mailto:yourname@email.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=social" alt="Email">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kiennt1699&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiennt1699&layout=compact&theme=tokyonight" alt="Top Languages">
+</p>
+
+---
+
+### 🌐 **Liên Hệ Tôi**
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">🌐 LinkedIn</a> •
+  <a href="mailto:youremail@example.com">📧 Email</a> •
+  <a href="https://yourwebsite.com">🔗 Website</a>
 </p>
