@@ -13,14 +13,15 @@
 - 🔭 **Hiện tại**: Sinh viên năm cuối tại **Đại học FPT**.
 - 🌱 **Học hỏi**: Tập trung vào **React, TypeScript, và UI/UX Design**.
 - ⚡ **Sở thích**: Lập trình, chơi game và du lịch.
+- 🙋‍♂️ **Tìm kiếm vị trí**: Intern/Fresher Font-end Developer - Full Stack.
 
 ---
 
 ### 🛠️ **Kỹ Năng Chính**
 
-| 🚀 **Frontend** | 🛠️ **Backend** | 📦 **DevOps** |
+| 🚀 **Frontend** | 🛠️ **Backend** | 📦 **Manager** |
 | -------------- | --------------- | ------------- |
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Java](https://img.shields.io/badge/Java-ffa500?style=for-the-badge&logo=express&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
 
 ---
 
@@ -28,8 +29,9 @@
 
 | **Tên Dự Án** | **Mô Tả** | **Liên Kết** |
 | -------------- | ---------- | ------------ |
-| 🏡 **NICEHOUSE** | Ứng dụng quản lý và tìm kiếm căn hộ chuyên nghiệp. | [🔗 Xem Dự Án](https://yourwebsite.com/projects/nicehouse) |
-| 🛒 **E-Commerce Platform** | Nền tảng thương mại điện tử đầy đủ chức năng. | [🔗 Xem Dự Án](https://github.com/yourusername/ecommerce-platform) |
+| 🛒 **E-Commerce Platform** | Nền tảng thương mại điện tử đầy đủ chức năng. | [Private by Team) |
+| 🏡 **NICEHOUSE** | Ứng dụng quản lý và tìm kiếm căn hộ chuyên nghiệp. | [🔗 Xem Dự Án](https://nice-house.vercel.app/) |
+| 💼 **Interview_Prep** | AI trợ giúp cho việc phỏng vấn trực tiếp. | [🔗 Xem Dự Án](https://ai-mock-interview-penguink.vercel.app/) |
 
 ---
 
