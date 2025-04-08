@@ -13,7 +13,7 @@
 - 🔭 **Hiện tại**: Sinh viên năm cuối tại **Đại học FPT**.
 - 🌱 **Học hỏi**: Tập trung vào **React, TypeScript, và UI/UX Design**.
 - ⚡ **Sở thích**: Lập trình, chơi game và du lịch.
-- 🙋‍♂️ **Tìm kiếm vị trí**: Intern/Fresher Font-end Developer - Full Stack.
+- 🙋‍♂️ **Tìm kiếm vị trí**: Intern/Fresher **Font-end Developer - Full Stack**.
 
 ---
 
@@ -21,7 +21,7 @@
 
 | 🚀 **Frontend** | 🛠️ **Backend** | 📦 **Manager** |
 | -------------- | --------------- | ------------- |
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Java](https://img.shields.io/badge/Java-ffa500?style=for-the-badge&logo=express&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Java](https://img.shields.io/badge/Java-ffa500?style=for-the-badge&logo=java&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
 
 ---
 
@@ -48,6 +48,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/yourprofile" target="_blank">🌐 LinkedIn</a> •
-  <a href="mailto:youremail@example.com">📧 Email</a> •
+  <a href="mailto:kien.nguyentrung1699@gmail.com">📧 Email</a> •
   <a href="https://yourwebsite.com">🔗 Website</a>
 </p>
