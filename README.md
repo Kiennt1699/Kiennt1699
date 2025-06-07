@@ -1,8 +1,8 @@
-<h1 align="center">🚀 Xin Chào! Tôi là <a href="https://yourwebsite.com" target="_blank">Nguyễn Trung Kiên</a> 👋</h1>
+<h1 align="center">🚀 Xin Chào! Tôi là <a href="https://kienportfolio.netlify.app/" target="_blank">Nguyễn Trung Kiên</a> 👋</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/pengnk"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="kien.nguyentrung1699@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="ntkien.pbn@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/Kiennt1699"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
@@ -29,7 +29,7 @@
 
 | **Tên Dự Án** | **Mô Tả** | **Liên Kết** |
 | -------------- | ---------- | ------------ |
-| 🛒 **E-Commerce Platform** | Nền tảng thương mại điện tử đầy đủ chức năng. | [Private by Team) |
+| 🛒 **E-Commerce Platform** | Nền tảng thương mại điện tử đầy đủ chức năng. | [Private by Team] |
 | 🏡 **NICEHOUSE** | Ứng dụng quản lý và tìm kiếm căn hộ chuyên nghiệp. | [🔗 Xem Dự Án](https://nice-house.vercel.app/) |
 | 💼 **Interview_Prep** | AI trợ giúp cho việc phỏng vấn trực tiếp. | [🔗 Xem Dự Án](https://ai-mock-interview-penguink.vercel.app/) |
 
@@ -49,5 +49,5 @@
 <p align="center">
   <a href="https://linkedin.com/in/yourprofile" target="_blank">🌐 LinkedIn</a> •
   <a href="mailto:kien.nguyentrung1699@gmail.com">📧 Email</a> •
-  <a href="https://yourwebsite.com">🔗 Website</a>
+  <a href="https://kienportfolio.netlify.app/">🔗 Website</a>
 </p>
